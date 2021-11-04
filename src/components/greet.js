@@ -9,7 +9,7 @@ import './nav.css';
 function Greet() {
     return(
         <div >
-            <h1 id="he">hhhhh</h1>
+            
             <div id="fullbar" class="navba d-flex justify-content-evenly bd-highlight mb-3 fixed-bottom">
                  <a href="www.google.com">
                  <div class="p-2 bd-highlight">
